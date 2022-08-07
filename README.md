@@ -1,3 +1,3 @@
 ### Hi there! :wave:
 
-### This is my tutorial repository
+### This is my tutorial repository :smirk:
