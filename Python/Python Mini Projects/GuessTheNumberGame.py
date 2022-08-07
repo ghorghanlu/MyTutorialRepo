@@ -23,6 +23,8 @@ if user != number:
 
 """
 
+# Here, unlike the problem, this number is not chosen randomly
+
 X = 4      # The number to be guessed
 T = 0 # Number of guess times. The user can guess up to three times
 W = 0 # The number of times the user guessed correctly (Win)
